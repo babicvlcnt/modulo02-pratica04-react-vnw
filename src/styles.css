@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: blueviolet;
+  color: #f0ffff;
+  font-family: "Poppins", sans-serif;
+}
+.container {
+  border: 1px solid #000000;
+  width: 20em;
+  height: 12em;
+  margin: auto;
+}
